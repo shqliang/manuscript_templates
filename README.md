@@ -1,5 +1,5 @@
-# article_templates
+# manuscript_templates
 
-Article templates for some journals
+Manuscript templates for some journals
 
 Download directly from journal's official website
